@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+networkx
+wordcloud
+konlpy
+scikit-learn
+gensim
+openai
+fpdf
